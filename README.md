@@ -77,6 +77,5 @@
 
 <br clear="both">
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Aniket-Todkar23&show_icons=true&theme=gotham" alt="Aniket-Todkar23" />
 
-
-###
