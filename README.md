@@ -77,5 +77,9 @@
 
 <br clear="both">
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Aniket-Todkar23&show_icons=true&theme=gotham" alt="Aniket-Todkar23" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniket-Todkar23&show_icons=true&theme=gotham" alt="Aniket-Todkar23" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Todkar23&layout=compact&theme=gotham" alt="top-langs" height="180em"/>
+</p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Aniket-Todkar23&theme=onedark&margin-w=10&no-frame=true" alt="trophies" />
