@@ -83,4 +83,4 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB3eWJzeHNsdHZjbTFyNmtma
 </p>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aniket-Todkar23&theme=onedark&margin-w=10&no-frame=true" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aniket-Todkar23&theme=gotham&margin-w=10&no-frame=true" alt="trophies" />
