@@ -86,4 +86,6 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB3eWJzeHNsdHZjbTFyNmtma
 </p>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aniket-Todkar23&theme=gotham&margin-w=10&no-frame=true" alt="trophies" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+</p>
