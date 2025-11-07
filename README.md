@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Aniket Todkar and I'm a Full Stack Developer from Pune!</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=👋%20Hey%20there!%20I'm%20Aniket%20Todkar%20%7C%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff&fontAlignY=35"/>
+
+
+
 
 ###
 
